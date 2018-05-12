@@ -1,0 +1,33 @@
+_repo: Cat-chisme-libertin--13---l-usage-des-filles-de-joie-et-des-jeunes-demoiselles-qui-se-destine__26607
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Théroigne de Méricourt
+    aliases:
+    - Méricourt, Théroigne de
+    - Terwagne, Anne-Josephe
+    - Theroigne de Mericourt
+    - Terwagne, Anne-Josèphe
+    birthdate: 1762
+    deathdate: 1817
+    gutenberg_agent_id: '32121'
+    url: http://www.gutenberg.org/2009/agents/32121
+description: ''
+gutenberg_bookshelf: FR Séduction et libertinage
+gutenberg_issued: '2008-09-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26607'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Prostitution -- France -- Manuals'
+- !lcc 'HQ'
+title: "Catéchisme libertin\r\nà l'usage des filles de joie et des jeunes demoiselles\
+  \ qui se destinent à embrasser cette profession"
+url: http://www.gutenberg.org/ebooks/26607
